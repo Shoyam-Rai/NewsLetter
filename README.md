@@ -1,7 +1,7 @@
 # NewsLetter
 ![image](https://github.com/user-attachments/assets/3d36b86c-f4ca-41d4-9ebb-47efbc426ec2)
 
-Here's an elaborate GitHub introduction for your web application that allows users to sign up for a newsletter with Mailchimp integration:
+
 
 ---
 
